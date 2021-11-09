@@ -17,5 +17,4 @@
 `$ php artisan serve;`
 
 ### Logando na aplicação:
-Login: admin@admin.com
-Senha: admin
+Login: admin@admin.com / Senha: admin
