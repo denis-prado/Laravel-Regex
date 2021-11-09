@@ -3,7 +3,7 @@
 ## Api Laravel
 
 ### Requisitos:
-> **Composer versão 2.0 **Laravel 8 **PHP 7.4
+> **PHP 7.4  **MySql
 
 ### Rodando o projeto:
 1. Clone o repositório
